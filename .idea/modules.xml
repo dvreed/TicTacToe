@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../TicTacToeLib/TicTacToeLib.iml" filepath="$PROJECT_DIR$/../TicTacToeLib/TicTacToeLib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TicTacToeMain.iml" filepath="$PROJECT_DIR$/TicTacToeMain.iml" />
+    </modules>
+  </component>
+</project>
+
